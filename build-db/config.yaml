@@ -1,0 +1,6 @@
+repo: lorensipro/satex-benchs
+release_benchs: raw-results
+main_release: https://github.com/lorensipro/satex-benchs/releases/download/raw-results
+download_dir: raw
+files:
+  - 2020-contest-parallel-track.csv.gz
